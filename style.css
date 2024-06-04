@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+}
+#searchInput{
+    color: white;
+    width: 43rem;
+    padding: 15px;
+    background-color: black;
+    border: 1px solid white;
+}
+#sortMarketCap{
+    padding: 15px;
+    color : white;
+    background-color: black;
+    border: 1px solid white;
+}
+#sortPercentage{
+    padding: 15px;
+    color : white;
+    background-color: black;
+    border: 1px solid white;
+}
+tr{
+    color : white;
+    background-color: black;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+.title{
+    color: white;
+    background-color: black;
+}
+.red-text {
+    color: red;
+}
+.green-text {
+    color: green;
+}
+input, button {
+    margin: 10px 5px;
+    padding: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    /* border: 1px solid #ddd; */
+    padding: 8px;
+    text-align: left;
+}
+
